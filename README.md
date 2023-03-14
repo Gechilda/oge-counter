@@ -2,7 +2,7 @@
 
 ## Demo Link
 ```
-https://clever-sunshine-d18f58.netlify.app/counter
+Here is a link to [oge-counter](https://clever-sunshine-d18f58.netlify.app/counter).
 ```
 
 ## Project setup
