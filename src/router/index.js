@@ -6,6 +6,7 @@ const routes = [
   {
     path: '/',
     name: 'home',
+    redirect: "/counter",
     component: HomeView
   },
   {
